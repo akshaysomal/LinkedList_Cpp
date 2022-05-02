@@ -188,7 +188,6 @@ int main(){
     deleteAtPosition(head,tail,8);
 
     print(head,tail);
-
     return 0;
 
 }
